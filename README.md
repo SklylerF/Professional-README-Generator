@@ -35,7 +35,10 @@ I have tested how many letter characters we can input into these prompts with no
 ## Questions
 If you have any questions, please contact me below: 
 
+## Demonstration
+   <img src="./Develop/imges/image-of-terminal-README-generator.png" alt="question prompt in terminal">
 
 Github: [SklylerF](https://github.com/SklylerF) 
 
 Email: sky_3489@icloud.com
+
